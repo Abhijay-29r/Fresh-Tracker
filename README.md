@@ -24,7 +24,7 @@
 | **Database** | Hive (NoSQL / Local) |
 | **External API** | Open Food Facts |
 | **Notifications** | Flutter Local Notifications |
-| **Scanning** | Simple Barcode Scanner |
+| **Scanning** | Mobile Barcode Scanner |
 
 ---
 
